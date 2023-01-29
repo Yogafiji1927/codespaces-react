@@ -5,4 +5,5 @@
    <>open<>controller"mobile"
    <>open<>editor"animation"
    <>open<>network"trackcar"
+   <>open#ssh.injector"network"
    <>http//open.please_.co.id
